@@ -1,0 +1,9 @@
+
+{
+  "name": "Public Voice Translator Kiosk",
+  "description": "A robust, voice-first public translation system designed for transit hubs, hospitals, and emergency points to assist travelers and migrants with real-time translation and location-aware guidance.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
